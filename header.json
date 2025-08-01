@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "BMS鯖アリーナ譜面ジャンル難易度表（仮）",
+"symbol" : "BA",
+"data_url" : "https://script.google.com/macros/s/AKfycbwTiT_37js7xCoVuLaKahlztNSTOEBYjVGKHTBcazvOtRBhKS2WghSg6kqtzPM4KtQC/exec"
 }
