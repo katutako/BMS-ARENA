@@ -1,7 +1,7 @@
 {
 "name" : "BMS鯖アリーナ譜面ジャンル難易度表",
 "symbol" : "BA",
-"data_url" : "https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLhipddloIv3tAJOmnicS3LMeQHcwDecj7gU3Kk-3vb0XYo42lv7c_iVOYt_Xb1SzdJ1RpOWrkxgxUWtB1aPcDarNde8QPHRBKVQFWD2SeEN_iIy4Jal8XKTcSu2Vksax16epyzkJraxq58kL0-hWpsTg2fzXbpjoLzcmq4iMJiHwXqkm_CP5UY1Gh2GV0jiGw2i5ImAz9I1eqC2jZ0XAw5ata5gyH-dt-rte9a-_7TyqvfL7ArFZlFOLhzVfloVWTvyycpi8TcO3iLfWNz8pL44TpLqAg&lib=MIyGrofR2Bmnu6IPgaZVyY1t8SPypJ2J1"
+"data_url" : "https://script.google.com/macros/s/AKfycbwTiT_37js7xCoVuLaKahlztNSTOEBYjVGKHTBcazvOtRBhKS2WghSg6kqtzPM4KtQC/exec"
 "course": [
 	{
 		"class": "bms.player.beatoraja.CourseData",
