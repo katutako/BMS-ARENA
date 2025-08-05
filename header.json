@@ -10,7 +10,7 @@
 {"name":"GENRE：CHORD★3～★5ジャンル別コース","constraint":["grade_random",""],"md5": ["b3887714270e28988ce900e4b9300994","3f4b5bde1500d2f3718a6b26fb604b84","4ffc2e2369740ac9d44da39cea5e0224","042b7b3b607695a66fa8bdd8f0d618fc"]},
 {"name":"GENRE：PEAK★3～★5ジャンル別コース","constraint":["grade_random",""],"md5": ["6983891ee44a38cd40188ca8a78cc56a","032b0582871a07c604d8cba171f95797","8a8a6c2f3511eb0876a6c9a2027d7bbe","d37ba8a0d317f3d39a1c6e2d5b369390"]},
 {"name":"GENRE：SCRATCH★3～★7ジャンル別コース","constraint":["grade_random",""],"md5": ["954f0b59464c3bec1601fa0e1ca6f365","73e45d6f82b6d69bad566cdddca277cf","b4d4c3a0ab148e9d3962adc5d1d98128","3e75b72bf37c843681c2f883b3ff8aea"]},
-{"name":"総合ジャンル別コースPLUS","constraint":["grade_random",""],"md5": ["fb05cc2e1da34361d75d001590360667","b0eaa048c119f95e66675ea44c4ba1da","57eb9b7751dcde63c1a1d3e50e38c491","cf6b5130b319f148ef4fe63ca993a43b"]},
+{"name":"総合ジャンル別コースPLUS","constraint":["grade_random",""],"md5": ["fb05cc2e1da34361d75d001590360667","b0eaa048c119f95e66675ea44c4ba1da","57eb9b7751dcde63c1a1d3e50e38c491","cf6b5130b319f148ef4fe63ca993a43b"]}
 
 
 
