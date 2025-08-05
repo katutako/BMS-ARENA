@@ -26,7 +26,9 @@
 				"43bb7874ea814639d2c11d0f8043cc52"
 			]
 		},
-    {
+	],
+	[
+    		{
 			"name":"▽11～▽12+通常BMS鯖アリーナ譜面ジャンル難易度表アップコースno.2",
 			"constraint":["grade_random"],
 			"trophy":[
@@ -48,7 +50,9 @@
 				"ed95acad04b514c3c0a220983e329fe3"
 			]
 		},
-    {
+	],
+	[
+    		{
 			"name":"GENRE：NOTES★3～★5ジャンル別コース",
 			"constraint":["grade_random"],
 			"trophy":[
@@ -70,7 +74,9 @@
 				"7aee705ad2b6e16eb7d50d29dca5acb2"
 			]
 		},
-    {
+	],
+	[
+    		{
 			"name":"GENRE：CHORD★3～★5ジャンル別コース",
 			"constraint":["grade_random"],
 			"trophy":[
@@ -92,7 +98,9 @@
 				"042b7b3b607695a66fa8bdd8f0d618fc"
 			]
 		},
-    {
+	],
+	[
+    		{
 			"name":"GENRE：PEAK★3～★5ジャンル別コース",
 			"constraint":["grade_random"],
 			"trophy":[
@@ -114,7 +122,9 @@
 				"d37ba8a0d317f3d39a1c6e2d5b369390"
 			]
 		},
-     {
+	],
+	[
+    		{
 			"name":"GENRE：GENRE：SCRATCH★3～★7ジャンル別コース",
 			"constraint":["grade_random"],
 			"trophy":[
@@ -136,7 +146,9 @@
 				"3e75b72bf37c843681c2f883b3ff8aea"
 			]
 		},
-     {
+	],
+	[
+    		{
 			"name":"GENRE：総合ジャンル別コースPLUS",
 			"constraint":["grade_random"],
 			"trophy":[
@@ -159,7 +171,5 @@
 			]
 		},
 	],
-	[
-	]
 ]
 }
